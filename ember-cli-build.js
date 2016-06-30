@@ -19,6 +19,8 @@ module.exports = function(defaults) {
   // modules that you would like to import into your application
   // please specify an object with the list of modules as keys
   // along with the exports of each module as its value.
-
+  app.import('bower_components/bootswatch/journal/bootstrap.min.css');
+  app.import('bower_components/bricklayer/dist/bricklayer.min.js');
+  app.import('bower_components/bricklayer/dist/bricklayer.min.css');
   return app.toTree();
 };

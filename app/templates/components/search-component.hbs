@@ -1,0 +1,10 @@
+<div class="col-md-offset-2 col-md-8">
+    <h1 class="text-center">Movie Finder</h1>
+    <h4 class="text-center">Simply insert the name of the movie and click "Search"</h4>
+    <div class="input-group form-group">
+      <input type="text" class="form-control" placeholder="Search for..." value={{search}} onkeyup={{action 'searchMovie'}}>
+      <span class="input-group-btn">
+        {{#link-to "search" searchStr class='btn btn-success'}}Search!{{/link-to}}
+      </span>
+    </div>
+</div>
