@@ -3,6 +3,10 @@
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
+## Description
+
+This application was created by using Ember.js. The Movie Finder will help you found necessary movies and shows you popular and newest movies.
+
 ## Prerequisites
 
 You will need the following things properly installed on your computer.

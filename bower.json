@@ -5,11 +5,11 @@
     "ember-cli-shims": "0.1.1",
     "ember-cli-test-loader": "0.2.2",
     "ember-qunit-notifications": "0.1.0",
-    "bootswatch": "^3.3.6+2",
+    "bootswatch": "^3.3.6",
     "bricklayer": "^0.4.3"
   },
   "resolutions": {
-    "bootswatch": "^3.3.6+2",
+    "bootswatch": "^3.3.6",
     "plyr": "1.5.21"
   }
 }

@@ -2,6 +2,10 @@ import Ember from 'ember';
 
 export default Ember.Component.extend({
   API_KEY: '72b56103e43843412a992a8d64bf96e9',
+  /**
+   * Action on initialization:
+   * get videos by movie id
+   */
   init() {
     "use strict";
     this._super(...arguments);

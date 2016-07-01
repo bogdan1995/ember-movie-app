@@ -1,6 +1,10 @@
 import Ember from 'ember';
 
 export default Ember.Route.extend({
+  /**
+   * get popular movies
+   * @returns {*}
+     */
   model() {
     "use strict";
     const API_KEY = '72b56103e43843412a992a8d64bf96e9';

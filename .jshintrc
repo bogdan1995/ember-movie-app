@@ -3,7 +3,8 @@
     "document",
     "window",
     "-Promise",
-    "Bricklayer"
+    "Bricklayer",
+    "$"
   ],
   "browser": true,
   "boss": true,

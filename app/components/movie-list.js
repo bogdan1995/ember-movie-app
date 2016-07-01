@@ -7,6 +7,9 @@ export default Ember.Component.extend({
   },
   reloadPlates() {
     "use strict";
+    /**
+     * Init bricklayer
+     */
     new Bricklayer(document.querySelector('.bricklayer'));
   }
 });
