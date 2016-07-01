@@ -9,6 +9,7 @@
     "bricklayer": "^0.4.3"
   },
   "resolutions": {
-    "bootswatch": "^3.3.6+2"
+    "bootswatch": "^3.3.6+2",
+    "plyr": "1.5.21"
   }
 }
